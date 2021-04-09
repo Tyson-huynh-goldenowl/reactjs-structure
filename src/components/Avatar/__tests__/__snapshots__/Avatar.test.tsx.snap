@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar component renders correctly 1`] = `
+<Avatar
+  icon={<ForwardRef(UserOutlined) />}
+  shape="circle"
+  size={80}
+/>
+`;
